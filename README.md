@@ -12,11 +12,11 @@ It demonstrates how students, courses, and enrolments are managed in a relationa
 
 
 # How to Open and Use the Files
-Download or clone this repository from GitHub.
-Open MySQL Workbench or phpMyAdmin on your system.
-Open the internship.Assignment2.Data.analysis.with.sql.sql  file using directly import it into MySQL Workbench.
-Copy and run the SQL queries step by step.
-Execute each query to see the output and results.
+1.Download or clone this repository from GitHub.
+2.Open MySQL Workbench or phpMyAdmin on your system.
+3.Open the internship.Assignment2.Data.analysis.with.sql.sql  file using directly import it into MySQL Workbench.
+4.Copy and run the SQL queries step by step.
+5.Execute each query to see the output and results.
 
 
 ## Tables Used
